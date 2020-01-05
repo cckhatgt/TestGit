@@ -3,6 +3,7 @@ second line.
 
 This is on first branch. 
 
-This is on second branch. 
 
-add additional descirption
+This is on second branch. 
+This is on master branch. 
+
